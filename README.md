@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/monicatvera/monicatvera/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/monicatvera/monicatvera/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
